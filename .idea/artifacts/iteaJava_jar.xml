@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iteaJava:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/iteaJava_jar</output-path>
+    <root id="archive" name="iteaJava.jar">
+      <element id="module-output" name="iteaJava" />
+    </root>
+  </artifact>
+</component>
