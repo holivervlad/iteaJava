@@ -10,6 +10,7 @@ public class MainFrame extends JFrame {
         System.out.println("second commit in master");
 
         System.out.println("first commit in second branch");
+        System.out.println("second commit in second branch");
 
     }
 }
